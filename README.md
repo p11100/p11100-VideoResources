@@ -37,4 +37,7 @@ https://handcrafts.undraw.co/
 https://lordicon.com/
    ![image](https://github.com/p11100/p11100-VideoResources/assets/150163853/99487d62-3675-4c86-a1ea-233b22cc3b93)
 
+### 4. drawkit
+https://www.drawkit.com/illustration-types/all
+![image](https://github.com/p11100/p11100-VideoResources/assets/150163853/3c895513-6430-4d69-9f6e-703a3084a823)
 
