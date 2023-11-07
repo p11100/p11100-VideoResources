@@ -1,6 +1,4 @@
-# p11100-VideoResources
-
-## Free Stock Images anf Videos:
+# Free Stock Images anf Videos:
 
 ### 1. Pexels
 https://www.pexels.com/ 
