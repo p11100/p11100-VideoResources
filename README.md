@@ -65,7 +65,7 @@ https://www.drawkit.com/illustration-types/all
 
 
 ### 1. character wise reveal (up):
-[Download page](/presets/character%20wise%20reveal%20(up).ffx)
+_ [Download page](/presets/character%20wise%20reveal%20(up).ffx)
 
 ![ezgif-3-348c4aa575](https://github.com/p11100/p11100-VideoResources/assets/150163853/2180a677-faef-4ae8-94dd-637751f4d177)
 
