@@ -80,4 +80,9 @@ https://www.drawkit.com/illustration-types/all
   <img width="192" height="108" src="https://github.com/p11100/p11100-VideoResources/assets/150163853/d0421799-921c-4429-8bd9-48ff99a22ae4">
 </p>
 
+### 3. FLICKERING GLOW
+[Download page](/presets/FLICKERING%20GLOW.ffx)
 
+<p align="center">
+  <img width="192" height="108" src="https://github.com/p11100/p11100-VideoResources/assets/150163853/0542bc8a-ef5e-48a5-b8e9-c448249f6be6">
+</p>
