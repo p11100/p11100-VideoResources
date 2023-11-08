@@ -66,7 +66,18 @@ https://www.drawkit.com/illustration-types/all
 
 ### 1. character wise reveal (up):
    [Download page](/presets/character%20wise%20reveal%20(up).ffx)
+
+
 <p align="center">
   <img width="192" height="108" src="https://github.com/p11100/p11100-VideoResources/assets/150163853/2180a677-faef-4ae8-94dd-637751f4d177">
 </p>
+
+
+### 2. character wise scale (up)
+[Download page](/presets/character%20wise%20scale(up).ffx)
+
+<p align="center">
+  <img width="192" height="108" src="https://github.com/p11100/p11100-VideoResources/assets/150163853/d0421799-921c-4429-8bd9-48ff99a22ae4">
+</p>
+
 
