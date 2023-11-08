@@ -1,10 +1,13 @@
 # Resources :
-### 1 - [Free Stock Images anf Videos](url)
-### 2 - Free Illustration
+### 1 - [Free Stock Images anf Videos]([url](https://github.com/p11100/p11100-VideoResources#free-stock-images-anf-videos))
+### 2 - [Free Illustration]([url](https://github.com/p11100/p11100-VideoResources#free-illustration))
 ### 3 - After Effects Presets
 
 
+
+
 ## Free Stock Images anf Videos:
+
 
 ### 1. Pexels
 https://www.pexels.com/ 
@@ -30,7 +33,10 @@ https://www.videvo.net/#rs=videvo-logo
 ![Uploading image.png…]()
 
 
+
+
 ## Free Illustration
+
 
 ### 1. iconscout
 https://iconscout.com/free-icons
@@ -53,4 +59,12 @@ https://www.drawkit.com/illustration-types/all
 
 
 
-https://github.com/p11100/p11100-VideoResources/blob/69303ed19eb64163a6e8ff47481ae133dad27565/presets/character%20wise%20reveal%20(up).mp4
+
+## 3 - After Effects Presets 
+
+
+
+### 1. character wise reveal (up):
+
+![ezgif-3-348c4aa575](https://github.com/p11100/p11100-VideoResources/assets/150163853/2180a677-faef-4ae8-94dd-637751f4d177)
+
