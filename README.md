@@ -45,3 +45,6 @@ https://lordicon.com/
 https://www.drawkit.com/illustration-types/all
 ![image](https://github.com/p11100/p11100-VideoResources/assets/150163853/3c895513-6430-4d69-9f6e-703a3084a823)
 
+
+
+https://github.com/p11100/p11100-VideoResources/blob/69303ed19eb64163a6e8ff47481ae133dad27565/presets/character%20wise%20reveal%20(up).mp4
