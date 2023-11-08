@@ -1,7 +1,7 @@
 # Resources :
-## 1 - [Free Stock Images anf Videos](url)
-## 2 - Free Illustration
-## 3 - After Effects Presets
+### 1 - [Free Stock Images anf Videos](url)
+### 2 - Free Illustration
+### 3 - After Effects Presets
 
 
 ## Free Stock Images anf Videos:
