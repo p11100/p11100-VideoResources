@@ -2,7 +2,7 @@
 ### 1 - [Free Stock Images anf Videos](https://github.com/p11100/p11100-VideoResources#free-stock-images-anf-videos)
 ### 2 - [Free Illustration](https://github.com/p11100/p11100-VideoResources#free-illustration)
 ### 3 - [After Effects Presets](https://github.com/p11100/p11100-VideoResources#1-character-wise-reveal-up)
-### 4 - Fonts
+### 4 - [Fonts](https://github.com/p11100/p11100-VideoResources/blob/main/README.md#4---fonts-1)
 
 
 
@@ -90,5 +90,7 @@ https://www.drawkit.com/illustration-types/all
 
 ## 4 - Fonts
 
-### 1. 
-[Download](https://www.whatfontis.com/FF_Tearoff.font)
+### 1. Tearoff
+[Download](/Fonts/Tearoff.zip)
+
+![FF_TearoffA1](https://github.com/p11100/p11100-VideoResources/assets/150163853/f8c9f7fc-384b-46a2-9f61-c91abb00ede5)
