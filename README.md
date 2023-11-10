@@ -1,12 +1,12 @@
 # Resources :
-### 1 - [Free Stock Images anf Videos](https://github.com/p11100/p11100-VideoResources#free-stock-images-anf-videos)
+### 1 - [Free Stock Images and Videos](https://github.com/p11100/p11100-VideoResources#free-stock-images-anf-videos)
 ### 2 - [Free Illustration](https://github.com/p11100/p11100-VideoResources#free-illustration)
 ### 3 - [After Effects Presets](https://github.com/p11100/p11100-VideoResources#1-character-wise-reveal-up)
 ### 4 - [Fonts](https://github.com/p11100/p11100-VideoResources#4---fonts-1)
 
 
 
-## Free Stock Images anf Videos:
+## Free Stock Images and Videos:
 
 
 ### 1. [Pexels](https://www.pexels.com/ )
